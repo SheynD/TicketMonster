@@ -1,0 +1,1 @@
+A summer web project to create a site where users can look for venues and receive ticket information from major ticketing APIs.

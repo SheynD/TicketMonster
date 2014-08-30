@@ -1,0 +1,140 @@
+body {
+	/*background-image: -moz-linear-gradient(top left, #FFFDF7 0%, #000000 100%); /* Firefox */
+	/*background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #FFFDF7), color-stop(1, #000000)); /* Safari and Chrome */
+	background: rgba(44, 62, 80, 1.0);
+}
+
+#login {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	width: auto;
+	margin-left: 420px;
+	width: 620px;
+	height: 350px;
+}
+
+h5 {
+	font-family: 'Raleway', sans-serif;
+	margin-left: 250px;
+	color: white;
+}
+
+.user {
+	border: 1px solid black;
+	height: 20px;
+	width: 200px;
+	display: inline;
+	margin-left: 250px;
+}
+
+.pass {
+	border: 1px solid black;
+	height: 20px;
+	width: 200px;
+	margin-left: 250px;
+}
+
+.log {
+	-moz-box-shadow: inset 0px 1px 0px 0px #BBDAF7;
+	-webkit-box-shadow: inset 0px 1px 0px 0px #BBDAF7;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #79BBFF), color-stop(1, #378DE5));
+	background: -moz-linear-gradient(center top, #79BBFF 5%, #378DE5 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#79BBFF', endColorstr = '#378DE5');
+	background-color: #79BBFF;
+	-webkit-border-top-left-radius: 37px;
+	-moz-border-radius-topleft: 37px;
+	border-top-left-radius: 37px;
+	-webkit-border-top-right-radius: 0px;
+	-moz-border-radius-topright: 0px;
+	border-top-right-radius: 0px;
+	-webkit-border-bottom-right-radius: 37px;
+	-moz-border-radius-bottomright: 37px;
+	border-bottom-right-radius: 37px;
+	-webkit-border-bottom-left-radius: 0px;
+	-moz-border-radius-bottomleft: 0px;
+	border-bottom-left-radius: 0px;
+	text-indent: 0;
+	border: 1px solid black;
+	display: inline-block;
+	color: #FFFFFF;
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	font-style: normal;
+	height: 50px;
+	line-height: 50px;
+	width: 100px;
+	text-decoration: none;
+	text-align: center;
+	text-shadow: 1px 1px 0px #528ECC;
+	margin-left: 250px;
+}
+
+.log:hover {
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #79BBFF), color-stop(1, #378DE5));
+	background: -moz-linear-gradient(center top, #378DE5 5%, #79BBFF 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#378DE5', endColorstr = '#79BBFF');
+	background-color: #378DE5;
+}
+
+.log:active {
+	position: relative;
+	top: 1px;
+}
+
+.create {
+	-moz-box-shadow: inset 0px 1px 0px 0px #BBDAF7;
+	-webkit-box-shadow: inset 0px 1px 0px 0px #BBDAF7;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #79BBFF), color-stop(1, #378DE5));
+	background: -moz-linear-gradient(center top, #79BBFF 5%, #378DE5 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#79BBFF', endColorstr = '#378DE5');
+	background-color: #79BBFF;
+	-webkit-border-top-left-radius: 37px;
+	-moz-border-radius-topleft: 37px;
+	border-top-left-radius: 37px;
+	-webkit-border-top-right-radius: 0px;
+	-moz-border-radius-topright: 0px;
+	border-top-right-radius: 0px;
+	-webkit-border-bottom-right-radius: 37px;
+	-moz-border-radius-bottomright: 37px;
+	border-bottom-right-radius: 37px;
+	-webkit-border-bottom-left-radius: 0px;
+	-moz-border-radius-bottomleft: 0px;
+	border-bottom-left-radius: 0px;
+	text-indent: 0;
+	border: 1px solid black;
+	display: inline-block;
+	color: #FFFFFF;
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	font-style: normal;
+	height: 50px;
+	line-height: 50px;
+	width: 100px;
+	text-decoration: none;
+	text-align: center;
+	text-shadow: 1px 1px 0px #528ECC;
+	margin-left: 250px;
+}
+
+.create:hover {
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #79BBFF), color-stop(1, #378DE5));
+	background: -moz-linear-gradient(center top, #378DE5 5%, #79BBFF 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#378DE5', endColorstr = '#79BBFF');
+	background-color: #378DE5;
+}
+
+.create:active {
+	position: relative;
+	top: 1px;
+}
+
+footer {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	position: absolute;
+	bottom: 1px;
+}
